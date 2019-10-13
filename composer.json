@@ -1,0 +1,17 @@
+{
+    "name": "clareo/php-logger",
+    "description": "A simple PHP logger used to ouput data to server terminal",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Claret Nnamocha",
+            "email": "devclareo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "Alpha\\" : "src/"
+        }
+    }
+}
