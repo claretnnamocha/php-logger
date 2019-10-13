@@ -3,7 +3,7 @@
     "description": "A simple PHP logger used to ouput data to server terminal",
     "type": "library",
     "license": "MIT",
-    "version": "1.0",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Claret Nnamocha",
