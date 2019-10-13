@@ -3,7 +3,7 @@ A simple PHP logger used to ouput data to server terminal inspired by the consol
 
 ## Features
 * Colored output depending on the type of output (debug= default color, info= lightgreen foreground and lightgray background)
-*  Highlighting reserved return values eg(true,false,null) with color bluee
+*  Highlighting reserved return values eg(true, false and null) with the color blue
 #
 #
 ## Examples
