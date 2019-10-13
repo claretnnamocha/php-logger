@@ -10,7 +10,7 @@
             "email": "devclareo@gmail.com"
         }
     ],
-    "keywords" : [
+    "tags" : [
         "logging",
         "debugging",
         "php-logger",
