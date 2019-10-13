@@ -1,5 +1,5 @@
 # php-logger
-A simple PHP logger used to ouput data to server terminal
+A simple PHP logger used to ouput data to server terminal inspired by the console module in javascript
 
 ## Features
 * Colored output depending on the type of output (debug= default color, info= lightgreen foreground and lightgray background)
