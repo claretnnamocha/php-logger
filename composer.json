@@ -3,12 +3,19 @@
     "description": "A simple PHP logger used to ouput data to server terminal",
     "type": "library",
     "license": "MIT",
-    "version": "0.1.1",
+    "version": "1.0",
     "authors": [
         {
             "name": "Claret Nnamocha",
             "email": "devclareo@gmail.com"
         }
+    ],
+    "kwywords" : [
+        "logging",
+        "debugging",
+        "php-logger",
+        "clareo",
+        "claretnnamocha"
     ],
     "autoload": {
         "psr-4":{
