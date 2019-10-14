@@ -10,16 +10,20 @@
             "email": "devclareo@gmail.com"
         }
     ],
-    "tags" : [
+    "keywords" : [
         "logging",
         "debugging",
         "php-logger",
         "clareo",
+        "terminal",
         "claretnnamocha"
     ],
+    "require": {
+        "php": ">=5.3.4"
+    },
     "autoload": {
         "psr-4":{
-            "Alpha\\" : "src/"
+            "Alpha\\Console\\" : "src/"
         }
     }
 }
