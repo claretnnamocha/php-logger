@@ -1,5 +1,5 @@
 {
-    "name": "clareo/php-logger",
+    "name": "claretnnamocha/php-logger",
     "description": "A simple PHP logger used to ouput data to server terminal",
     "type": "library",
     "license": "MIT",
@@ -15,8 +15,7 @@
         "debugging",
         "php-logger",
         "clareo",
-        "terminal",
-        "claretnnamocha"
+        "terminal"
     ],
     "require": {
         "php": ">=5.3.4"
