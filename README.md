@@ -9,7 +9,7 @@ A simple PHP logger used to ouput data to server terminal inspired by the consol
 ## Examples
 ### Debug 
 ```php
-    use Alpha\Console;
+    use Alpha\Console\Console;
     Console::log('Hello World!');
 ```
 ### Output
@@ -18,7 +18,7 @@ A simple PHP logger used to ouput data to server terminal inspired by the consol
 #
 ### Info 
 ```php
-    use Alpha\Console;
+    use Alpha\Console\Console;
     Console::info('Some informative message!');
 ```
 ### Output
@@ -27,7 +27,7 @@ A simple PHP logger used to ouput data to server terminal inspired by the consol
 #
 ### Error 
 ```php
-    use Alpha\Console;
+    use Alpha\Console\Console;
     Console::error(new Exception());
 ```
 ### Output
